@@ -1,0 +1,32 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "JAMVERSE",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "JAMX",
+  "start_url": "/",
+  "theme_color": "#101c35",
+  "icons": [
+    {
+      "src": "https://akash-kumar-mishra-830.github.io/IITJAM-MA/icon-192.svg",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "jamverse",
+  "description": "IIT JAM Mathematics Preparation – Learn, Practice, PYQs and Mock Tests.",
+  "lang": "en",
+  "categories": [
+    "education",
+    "productivity",
+    "reference"
+  ]
+}
